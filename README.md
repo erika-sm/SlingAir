@@ -4,7 +4,10 @@
 MERN stack airline booking platform that utilizes the full set of database CRUD operations. 
 
 
-https://user-images.githubusercontent.com/91225565/170801189-787d1e27-990f-4587-b218-2b1901b3294b.mov
+
+https://user-images.githubusercontent.com/91225565/171292410-70e49f65-5968-4559-8096-82b4de8c1787.mov
+
+
 
 ## Launching the app
 
